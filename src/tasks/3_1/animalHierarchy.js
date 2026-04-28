@@ -144,5 +144,3 @@ allClasses.forEach(classElement => {
     }
     console.groupEnd();
 });
-
-// export { Animals, Mammals, Birds, Fish, Predators, Whales, Primates, Dog, Dolphin, Human };
